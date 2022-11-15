@@ -1,0 +1,32 @@
+{
+  "crew": [
+    {
+      "id": 1,
+      "name": "DOUGLAS HURLEY",
+      "title": "COMMANDER",
+      "image": "https://space-tourism-multi-page-solution.netlify.app/images/e4c7def427824ef543c0.webp",
+      "description": "See our planet as you've never seen it before. A perfect relaxing trip away  to help regain perspective and come back refreshed. While you're there, take in some history by visiting the Luna 2 and Apollo 11 landing sites."
+    },
+    {
+      "id": 2,
+      "name": "MARK SHUTTLEWORTH",
+      "title": "MISSION SPECIALIST",
+      "image": "https://space-tourism-multi-page-solution.netlify.app/images/665e198adc22fcdf7810.webp",
+      "description": "Mark Richard Shuttleworth is the founder and CEO of Canonical, the company behind the Linux-based Ubuntu operating system. Shuttleworth became the first South African to travel to space as a space tourist."
+    },
+    {
+       "id": 3,
+      "name": "VICTOR GLOVER",
+      "title": "PILOT",
+      "image": "https://space-tourism-multi-page-solution.netlify.app/images/1c271f99bab8b06d7ab5.webp",
+      "description": "Pilot on the first operational flight of the SpaceX Crew Dragon to the International Space Station. Glover is a commander in the U.S. Navy where he pilots an F/A-18.He was a crew member of Expedition 64, and served as a station systems flight engineer."
+    },
+    {
+      "id": 4,
+      "name": "ANOUSHEH ANSARI",
+      "title": "FLIGHT ENGINEER",
+      "image": "https://space-tourism-multi-page-solution.netlify.app/images/bb42b775ee0b12430f3a.webp",
+      "description": "Anousheh Ansari is an Iranian American engineer and co-founder of Prodea Systems. Ansari was the fourth self-funded space tourist, the first self-funded woman to fly to the ISS, and the first Iranian in space."
+    }
+  ]    
+}
